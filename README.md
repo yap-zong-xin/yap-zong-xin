@@ -1,10 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I'm Yap Zong Xin
+I'm a final-year Computer Science student at NUS with a passion for building intuitive and visually engaging interfaces that enhance user experiences.
+When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or hunting for great food 🍔 (or thinking about what to eat next 🤔).
 
-My name is Yap Zong Xin, and I'm a final year Computer Science student at NUS. I am interested in creating intuitive and visually engaging interfaces that improve how people interact with technologies! 
+## 👁️ Seeking Internships
+I'm looking for a **3-month internship** from **May 2025 to August 2025** during my summer break.
 
-- 🔭 I’m currently working on Explord, a personal project that aims to allow road trips lovers (bike/cars) to join road trips and to plan them.  
-- 🌱 I recently finished a React course throug Udemy [link here].
-- 👯 I’m looking to join an internship during my summer (May 25 to Aug 25). You can reach me at yapzongxin@hotmail.com. 
+## 🌱 Recent Projects
+I recently completed a React course on Udemy, where I built several projects to deepen my understanding of React. <a href="">Check it out here.</a>
+
+## 🛠️ Tech Stack
+💻 Computing: ReactJS, NodeJS, JavaScript, MongoDB, MySQL, Firebase, Supabase, Git, Docker, HTML, CSS, Bootstrap <br />
+🎨 Designing: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, UI/UX
+
+## 📫 Let's Connect
+[<img src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" style="height: 50px" />](mailto:yapzongxin@hotmail.com)
+<a href="https://www.linkedin.com/in/yapzongxin"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" style="height: 50px" /></a>
 
 <!--
 **yap-zong-xin/yap-zong-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
