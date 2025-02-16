@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Yap Zong Xin, and I'm a final year Computer Science student at NUS. I am interested in creating intuitive and visually engaging interfaces that improve how people interact with technologies! 
+
+- 🔭 I’m currently working on Explord, a personal project that aims to allow road trips lovers (bike/cars) to join road trips and to plan them.  
+- 🌱 I recently finished a React course throug Udemy [link here].
+- 👯 I’m looking to join an internship during my summer (May 25 to Aug 25). You can reach me at yapzongxin@hotmail.com. 
+
 <!--
 **yap-zong-xin/yap-zong-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
