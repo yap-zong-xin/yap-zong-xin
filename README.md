@@ -2,9 +2,6 @@
 I'm a final-year Computer Science student at NUS with a passion for building intuitive and visually engaging interfaces that enhance user experiences.
 When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or hunting for great food 🍔 (or thinking about what to eat next 🤔).
 
-### 👁️ Seeking Internships
-I'm looking for a **3-month internship** from **May 2025 to August 2025** during my summer break. I'm eager to learn anything and everything, whether it's new technologies, best practices, or just the art of making the perfect cup of coffee ☕.
-
 ### 🌱 Recent Projects
 I recently completed a React course on Udemy, where I built several projects to deepen my understanding on React such as <a href="https://the-wild-oasis-blond-chi.vercel.app/">The Wild Oasis</a> and <a href="https://fast-react-pizza-ebon-theta.vercel.app/">Fast React Pizza</a>.
 
