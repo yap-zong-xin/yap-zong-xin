@@ -14,10 +14,10 @@ I recently completed a React course on Udemy, where I built several projects to 
 
 ### 📫 Let's Connect
 <a href="mailto:yapzongxin@hotmail.com" alt="email" style="text-decoration:none">
-  <img src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" style="height:50px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" style="height:40px" />
 </a>
 <a href="https://www.linkedin.com/in/yapzongxin" target="_blank" alt="linkedin" style="text-decoration:none">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" style="height:50px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" style="height:40px" />
 </a>
 
 <!--
