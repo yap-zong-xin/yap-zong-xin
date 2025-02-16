@@ -2,12 +2,12 @@
 I'm a final-year Computer Science student at NUS with a passion for building intuitive and visually engaging interfaces that enhance user experiences.
 When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or hunting for great food 🍔 (or thinking about what to eat next 🤔).
 
-### 🌱 Recent Projects
-I recently completed a React course on Udemy, where I built several projects to deepen my understanding on React such as <a href="https://the-wild-oasis-blond-chi.vercel.app/">The Wild Oasis</a> and <a href="https://fast-react-pizza-ebon-theta.vercel.app/">Fast React Pizza</a>.
-
 ### 🛠️ Tech Stack
 💻 Computing: ReactJS, NodeJS, JavaScript, MongoDB, MySQL, Firebase, Supabase, Git, Docker, HTML, CSS, Bootstrap <br />
 🎨 Designing: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, UI/UX
+
+### 🌱 Recent Projects
+I recently completed a React course on Udemy, where I built several projects to deepen my understanding on React such as <a href="https://the-wild-oasis-blond-chi.vercel.app/">The Wild Oasis</a> and <a href="https://fast-react-pizza-ebon-theta.vercel.app/">Fast React Pizza</a>.
 
 ### 🧪 Currently Working On
 I'm building a Road Trip Planner — a web app that makes planning and joining road trips effortless. Users can create custom routes by adding stops like restaurants, hotels, and attractions, all connected seamlessly on an interactive map 🗺️. Whether you're a solo traveler mapping out your next journey or joining a group adventure, this app ensures a smooth and flexible road trip experience. [Stay tuned for updates!](https://github.com/yap-zong-xin/road-trip/blob/main/README.md) ✨
