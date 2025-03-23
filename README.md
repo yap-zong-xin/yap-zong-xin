@@ -3,7 +3,7 @@ I'm a final-year Computer Science student at NUS with a passion for building int
 When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or hunting for great food 🍔 (or thinking about what to eat next 🤔).
 
 ### 🛠️ Tech Stack
-💻 Computing: ReactJS, NodeJS, JavaScript, Phython, MongoDB, MySQL, Firebase, Supabase, Git, Docker, HTML, CSS, Bootstrap <br />
+💻 Computing: ReactJS, NodeJS, JavaScript, Python, MongoDB, MySQL, Firebase, Supabase, Git, Docker, HTML, CSS, Bootstrap <br />
 🎨 Designing: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, UI/UX
 
 ### 🌱 Recent Projects
