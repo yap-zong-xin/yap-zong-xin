@@ -3,8 +3,8 @@ I'm a final-year Computer Science student at NUS with a passion for building int
 When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or hunting for great food 🍔 (or thinking about what to eat next 🤔).
 
 ### 🛠️ Tech Stack
-💻 Computing: ReactJS, NodeJS, JavaScript, Python, MongoDB, MySQL, Firebase, Supabase, Git, Docker, HTML, CSS, Bootstrap <br />
-🎨 Designing: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, UI/UX
+💻 Computing: ReactJS, NodeJS, JavaScript, Python, MongoDB, MySQL, SSMS, Firebase, Supabase, Git, Docker, Angular, HTML, CSS, Bootstrap <br />
+🎨 Designing: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, UI/UX, Canva
 
 ### 🌱 Projects
 Built several projects using React such as <a href="https://the-wild-oasis-blond-chi.vercel.app/">The Wild Oasis</a> and <a href="https://fast-react-pizza-ebon-theta.vercel.app/">Fast React Pizza</a>.
