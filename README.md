@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Yap Zong Xin
-I'm a final-year Computer Science student at NUS with a passion for building intuitive and visually engaging interfaces that enhance user experiences.
+I'm a final-year Computer Science student at NUS with a passion for building intuitive features and designing user‑centric products that solve real problems.
 When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or hunting for great food 🍔 (or thinking about what to eat next 🤔).
 
 ### 🛠️ Tech Stack
-💻 Computing: ReactJS, NodeJS, JavaScript, Python, MongoDB, MySQL, SSMS, Firebase, Supabase, Git, Docker, Angular, HTML, CSS, Bootstrap <br />
+💻 Computing: ReactJS, NodeJS, ASP.NET, JavaScript, Python, MongoDB, MySQL, SSMS, Firebase, Supabase, Git, Docker, Angular, HTML, CSS, Bootstrap <br />
 🎨 Designing: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, UI/UX, Canva
 
 ### 🌱 Personal Projects
