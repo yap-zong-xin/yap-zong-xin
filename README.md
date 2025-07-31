@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yap Zong Xin
 I'm a recent Computer Science graduate at NUS with a passion for building intuitive features and designing user‑centric products that solve real problems.
-When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or tinkering with random visual designs and layouts for fun - like making stickers for my motorcycle trips or just for whatever inspires me.
+When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or tinkering with random visual designs and layouts for fun 🎨 - like making stickers for my motorcycle trips or just for whatever inspires me.
 
 ### 🛠️ Tech Stack
 💻 Computing: ReactJS, NodeJS, ASP.NET, JavaScript, Python, MongoDB, MySQL, SSMS, Firebase, Supabase, Git, Docker, Angular, HTML, CSS, Bootstrap <br />
@@ -9,8 +9,8 @@ When I'm not coding, you’ll probably find me riding around the city on my moto
 ### 💼 Past Freelance & Internship Projects
 Here are some project websites I worked on during freelance gigs and internships:
 - Makino Asia (Internship 2025): <a href="https://drive.google.com/file/d/19Z0GgsIsuUSng1fEoz0mKycrG0DKOY3L/view?usp=drive_link" target="_blank">Contributions to JMV2</a>
-- Elves Lab (Internship 2021-2022): <a href="http://www.webdesigning.com.sg/project/Mdada/" target="_blank">MDADA</a>, <a href="https://www.smiledental.sg/" target="_blank">Smile Dental</a>, <a href="https://www.mnda.org.sg/" target="_blank">MNDA</a>
-- The Signature Patisserie (Freelance 2019-2022): <a href="https://thesignaturepatisserie.com/" target="_blank">The Signature Patisserie</a>
+- Elves Lab (Internship 2021 - 2022): <a href="http://www.webdesigning.com.sg/project/Mdada/" target="_blank">MDADA</a>, <a href="https://www.smiledental.sg/" target="_blank">Smile Dental</a>, <a href="https://www.mnda.org.sg/" target="_blank">MNDA</a>
+- The Signature Patisserie (Freelance 2019 - 2022): <a href="https://thesignaturepatisserie.com/" target="_blank">The Signature Patisserie</a>
 
 *Note: Some project links may point to archived or client-managed versions.*
 
