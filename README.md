@@ -21,12 +21,8 @@ Built several projects using React such as <a href="https://the-wild-oasis-blond
 I'm building a Road Trip Planner — a web app that makes planning and joining road trips effortless. Users can create custom routes by adding stops like restaurants, hotels, and attractions, all connected seamlessly on an interactive map 🗺️. Whether you're a solo traveler mapping out your next journey or joining a group adventure, this app ensures a smooth and flexible road trip experience. [Stay tuned for updates!](https://github.com/yap-zong-xin/road-trip/blob/main/README.md) ✨
 
 ### 📫 Let's Connect
-<a href="mailto:yapzongxin@hotmail.com" alt="email" style="text-decoration:none">
-  <img src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" style="height:40px" />
-</a>
-<a href="https://www.linkedin.com/in/yapzongxin" target="_blank" alt="linkedin" style="text-decoration:none">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" style="height:40px" />
-</a>
+📧 <a href="mailto:yapzongxin@hotmail.com" alt="email" style="text-decoration:none">Email</a>
+🔗 <a href="https://www.linkedin.com/in/yapzongxin" target="_blank" alt="linkedin" style="text-decoration:none">Linkedin</a>
 
 <!--
 **yap-zong-xin/yap-zong-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
