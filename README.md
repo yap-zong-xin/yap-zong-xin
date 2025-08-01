@@ -7,12 +7,13 @@ When I'm not coding, you’ll probably find me riding around the city on my moto
 🎨 Designing: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, UI/UX, Canva
 
 ### 💼 Past Freelance & Internship Projects
-Here are some project websites I worked on during freelance gigs and internships:
-- Makino Asia (Internship 2025): <a href="https://drive.google.com/file/d/19Z0GgsIsuUSng1fEoz0mKycrG0DKOY3L/view?usp=drive_link" target="_blank">Contributions to JMV2</a>
-- Elves Lab (Internship 2021 - 2022): <a href="http://www.webdesigning.com.sg/project/Mdada/" target="_blank">MDADA</a>, <a href="https://www.smiledental.sg/" target="_blank">Smile Dental</a>, <a href="https://www.mnda.org.sg/" target="_blank">MNDA</a>
-- The Signature Patisserie (Freelance 2019 - 2022): <a href="https://thesignaturepatisserie.com/" target="_blank">The Signature Patisserie</a>
-
+These are my contributions from internships and freelance gigs: <br />
 *Note: Some project links may point to archived or client-managed versions.*
+- Makino Asia (Software Engineer Internship 2025): <a href="https://drive.google.com/file/d/19Z0GgsIsuUSng1fEoz0mKycrG0DKOY3L/view?usp=drive_link" target="_blank">Contributions to JMV2</a>
+- Elves Lab (Software Developer Internship 2021 - 2022): <a href="http://www.webdesigning.com.sg/project/Mdada/" target="_blank">MDADA</a>, <a href="https://www.smiledental.sg/" target="_blank">Smile Dental</a>, <a href="https://www.mnda.org.sg/" target="_blank">MNDA</a>
+- The Signature Patisserie (Software Developer Freelance 2019 - 2022): <a href="https://thesignaturepatisserie.com/" target="_blank">The Signature Patisserie</a>
+
+
 
 ### 🌱 Personal Projects
 Built several projects using React such as <a href="https://the-wild-oasis-blond-chi.vercel.app/">The Wild Oasis</a> and <a href="https://fast-react-pizza-ebon-theta.vercel.app/">Fast React Pizza</a>.
