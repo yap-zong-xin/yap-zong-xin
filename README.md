@@ -5,7 +5,7 @@
 
 - - -
 
-### 🌱 Personal Projects
+### 🌱 Personal Project
 **<img src="./images/icon.png" alt="Gohomeclub Icon" width="16" />&nbsp;&nbsp;GoHomeClub**  
 
 Started as a way to document solo motorcycle adventures and evolved into a platform that allows others to book trips with me. Responsible for full-stack development, UI/UX design, and all key functionality. 
