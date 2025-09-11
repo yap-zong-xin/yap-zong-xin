@@ -1,29 +1,49 @@
-## Hi there 👋, I'm Yap Zong Xin
-I'm a recent Computer Science graduate at NUS with a passion for building intuitive features and designing user‑centric products that solve real problems.
-When I'm not coding, you’ll probably find me riding around the city on my motorcycle 🛵 or tinkering with random visual designs and layouts for fun 🎨 - like making stickers for my motorcycle trips or just for whatever inspires me.
+## Hi, I'm Zong Xin 👋
+- **CS graduate 2025 (NUS)** | Building user-friendly software and products that solve real problems.  
+- Interested in software engineering, full-stack development, frontend/backend work, UI/UX, and designing practical solutions.  
+- Off-screen: Motorcycle rides and creative design experiments.  
 
-### 🛠️ Tech Stack
-💻 Computing: ReactJS, NodeJS, ASP.NET, JavaScript, Python, MongoDB, MySQL, SSMS, Firebase, Supabase, Git, Docker, Angular, HTML, CSS, Bootstrap <br />
-🎨 Designing: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, UI/UX, Canva
-
-### 💼 Past Freelance & Internship Projects
-These are my contributions from internships and freelance gigs: <br />
-*Note: Some project links may point to archived or client-managed versions.*
-- Makino Asia (Software Engineer Internship 2025): <a href="https://drive.google.com/file/d/19Z0GgsIsuUSng1fEoz0mKycrG0DKOY3L/view?usp=drive_link" target="_blank">Contributions to JMV2</a>
-- Elves Lab (Software Developer Internship 2021 - 2022): <a href="http://www.webdesigning.com.sg/project/Mdada/" target="_blank">MDADA</a>, <a href="https://www.smiledental.sg/" target="_blank">Smile Dental</a>, <a href="https://www.mnda.org.sg/" target="_blank">MNDA</a>
-- The Signature Patisserie (Software Developer Freelance 2019 - 2022): <a href="https://thesignaturepatisserie.com/" target="_blank">The Signature Patisserie</a>
-
-
+- - -
 
 ### 🌱 Personal Projects
-Built projects using React such as <a href="https://the-wild-oasis-blond-chi.vercel.app/">The Wild Oasis</a>.
+**<img src="./images/icon.png" alt="Gohomeclub Icon" width="16" />&nbsp;&nbsp;GoHomeClub**  
 
-### 🧪 Currently Working On
-I'm building a Road Trip Planner — a web app that makes planning and joining road trips effortless. Users can create custom routes by adding stops like restaurants, hotels, and attractions, all connected seamlessly on an interactive map 🗺️. Whether you're a solo traveler mapping out your next journey or joining a group adventure, this app ensures a smooth and flexible road trip experience. [Stay tuned for updates!](https://github.com/yap-zong-xin/road-trip/blob/main/README.md) ✨
+Started as a way to document solo motorcycle adventures and evolved into a platform that allows others to book trips with me. Responsible for full-stack development, UI/UX design, and all key functionality. 
+- **Single-Page Application (SPA):** [Admin Portal](http://go-home-club-spa.vercel.app/) to manage trips, bookings, and settings. Built with ReactJS, using React Router (routing), Context API (ui state), React Query (remote state), Styled Components (styling), and Supabase (backend/storage).
+- **Multi-Page Application (MPA):** [Public Website](https://thegohomeclub.com) showcasing trips and allowing users to explore and book rides. Built with Next.js, using Context API (ui state), TailwindCSS (styling), and Supabase (backend/storage).
+
+- - -
+
+### 💼 Work Experience
+*Some project links point to archived or client-managed versions.*
+
+- **Makino Asia** – Software Engineer Intern (2025)  
+  [Contributions to JMV2](https://drive.google.com/file/d/19Z0GgsIsuUSng1fEoz0mKycrG0DKOY3L/view?usp=drive_link)  
+
+- **Elves Lab** – Software Developer Intern (2021–2022)  
+  [MDADA](http://www.webdesigning.com.sg/project/Mdada/) | [Smile Dental](https://www.smiledental.sg/) | [MNDA](https://www.mnda.org.sg/)  
+
+- **The Signature Patisserie** – Software Developer Freelance (2019–2022)  
+  [The Signatrue Patisserie](https://thesignaturepatisserie.com/)  
+
+---
+
+### 🛠️ Tech Stack
+
+**🖥️ Technical Skills**  
+- **Frontend / Full-Stack:** JavaScript, ReactJS, Next.js, Angular, HTML, CSS, Bootstrap  
+- **Backend:** NodeJS, ASP.NET  
+- **Databases:** MongoDB, MySQL, SSMS, Supabase, Firebase  
+- **DevOps & Tools:** Git, Docker  
+
+**🖌️ Design Skills**  
+- **UI/UX & Prototyping:** Figma, XD, Canva  
+- **Graphic Design:** Photoshop, Illustrator  
+
+- - -
 
 ### 📫 Let's Connect
-📧 <a href="mailto:yapzongxin@hotmail.com">Email</a>
-🔗 <a href="https://www.linkedin.com/in/yapzongxin" target="_blank">Linkedin</a>
+[Email](mailto:yapzongxin@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/yapzongxin)
 
 <!--
 **yap-zong-xin/yap-zong-xin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
