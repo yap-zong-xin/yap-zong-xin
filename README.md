@@ -1,7 +1,6 @@
 ## Hi, I'm Zong Xin 👋
 - **CS graduate 2025 (NUS)** | Building user-friendly software and products that solve real problems.  
-- Interested in software engineering, full-stack development, frontend/backend work, UI/UX, and designing practical solutions.  
-- Off-screen: Motorcycle rides and creative design experiments.  
+- Interested in software engineering, full-stack development, frontend/backend work, UI/UX, and designing practical solutions.
 
 - - -
 
