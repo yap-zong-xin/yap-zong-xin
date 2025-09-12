@@ -8,7 +8,7 @@
 **<img src="./images/icon.png" alt="Gohomeclub Icon" width="16" />&nbsp;&nbsp;GoHomeClub**  
 
 Started as a way to document solo motorcycle adventures and evolved into a platform that allows others to book trips with me. Responsible for full-stack development, UI/UX design, and all key functionality. 
-- **Single-Page Application (SPA):** [Admin Portal](http://go-home-club-spa.vercel.app/) to manage trips, bookings, and settings. Built with ReactJS, using React Router (routing), Context API (ui state), React Query (remote state), Styled Components (styling), and Supabase (backend/storage).
+- **Single-Page Application (SPA):** [Admin Portal](http://go-home-club-spa.vercel.app/) to manage trips, bookings, and settings. Built with React.js, using React Router (routing), Context API (ui state), React Query (remote state), Styled Components (styling), and Supabase (backend/storage).
 - **Multi-Page Application (MPA):** [Public Website](https://thegohomeclub.com) showcasing trips and allowing users to explore and book rides. Built with Next.js, using Context API (ui state), TailwindCSS (styling), and Supabase (backend/storage).
 
 - - -
@@ -25,7 +25,7 @@ Started as a way to document solo motorcycle adventures and evolved into a platf
 ### 🛠️ Tech Stack
 
 **🖥️ Technical Skills**  
-- **Frontend / Full-Stack:** JavaScript, ReactJS, Next.js, Angular, HTML, CSS, Bootstrap  
+- **Frontend / Full-Stack:** JavaScript, React.js, Next.js, Angular, HTML, CSS, Bootstrap  
 - **Backend:** NodeJS, ASP.NET  
 - **Databases:** MongoDB, MySQL, SSMS, Supabase, Firebase  
 - **DevOps & Tools:** Git, Docker  
