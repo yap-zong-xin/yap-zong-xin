@@ -9,7 +9,7 @@
 
 Started as a way to document solo motorcycle adventures and evolved into a platform that allows others to book trips with me. Responsible for full-stack development, UI/UX design, and all key functionality. 
 - **Single-Page Application (SPA):** [Admin Portal](http://go-home-club-spa.vercel.app/) to manage trips, bookings, and settings. Built with React.js, using React Router (routing), Context API (ui state), React Query (remote state), Styled Components (styling), and Supabase (backend/storage).
-- **Multi-Page Application (MPA):** [Public Website](https://thegohomeclub.com) showcasing trips and allowing users to explore and book rides. Built with Next.js, using Context API (ui state), TailwindCSS (styling), and Supabase (backend/storage).
+- **Multi-Page Application (MPA):** [Public Website](https://gohomeclub.sg) showcasing trips and allowing users to explore and book rides. Built with Next.js, using Context API (ui state), TailwindCSS (styling), and Supabase (backend/storage).
 
 - - -
 
