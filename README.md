@@ -18,7 +18,7 @@ A motorcycle booking platform that helps riders discover and book trips, built w
 
 - **Makino Asia** – Software Engineer Intern (2025) | [Contributions to JMV2](https://drive.google.com/file/d/19Z0GgsIsuUSng1fEoz0mKycrG0DKOY3L/view?usp=drive_link) | Angular, Design Thinking, ASP.NET, SSMS, REST APIs, Git, Agile
 - **Elves Lab** – Software Developer Intern (2021–2022) | [MDADA](http://www.webdesigning.com.sg/project/Mdada/) | [Smile Dental](https://www.smiledental.sg/) | [MNDA](https://www.mnda.org.sg/) | HTML, CSS, JavaScript, ASP.NET, MySQL
-- **The Signature Patisserie** – Software Developer Freelance (2019–2022) | [The Signature Patisserie](https://thesignaturepatisserie.com/) | HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB, REST APIs, Hosting
+- **The Signature Patisserie** – Software Developer Freelance (2019–2022) | [The Signature Patisserie](https://thesignaturepatisserie.com/) | HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB, REST APIs, Hosting, WooCommerce, Shopify
 
 ---
 
