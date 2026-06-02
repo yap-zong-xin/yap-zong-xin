@@ -1,5 +1,5 @@
 ## Hi, I'm Zong Xin 👋
-- **CS graduate 2025 (NUS)** | Full-stack developer interested in building scalable applications and intuitive user experiences.
+- **NUS Computer Science Graduate (2025)** | Full-stack developer interested in building scalable applications and intuitive user experiences.
 - Enjoy creating personal projects, exploring new technologies, and turning ideas into working products.
 
 - - -
